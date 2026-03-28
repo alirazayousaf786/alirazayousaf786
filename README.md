@@ -1,19 +1,19 @@
-# Hi, I'm Ali Raza Yousaf! 👋
+# Hi, I'm Ali Raza Yousaf! 
 
-🚀 Full-Stack Developer | JavaScript Enthusiast | Open Source Lover
+ Full-Stack Developer | JavaScript Enthusiast | Next.js | Open Source Lover
 
----
 
-## 🧑‍💻 About Me
 
-- 💼 open for Work (Lahore)
-- 🌱 Always learning new technologies
-- 💡 Passionate about building real-world web applications
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ali-raza-6008aa289/)
+## About Me
 
----
+open for Work (Lahore)
+Always learning new technologies
+Passionate about building real-world web applications
+Reach me on [LinkedIn](https://www.linkedin.com/in/ali-raza-6008aa289/)
 
-## 🛠️ Tech Stack
+
+
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Ali Raza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirazayousaf786&show_icons=true&theme=tokyonight)
 
@@ -32,7 +32,8 @@
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-raza-6008aa289/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/alirazayousaf786)
+
